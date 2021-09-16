@@ -12,8 +12,8 @@ Qual objetivo?
 
 O que precisa fazer?
 
-[ ] - Aprimorar layout
-[ ] - Bootstrap ou não
-[ ] - Aprimorar minha habilidade no CSS, com posicionamento e e separação de elementos
-[ ] - Responsividade (Media queries)
-[ ] - Melhorar estrutura do projeto
+[] - Aprimorar layout
+[] - Bootstrap ou não
+[] - Aprimorar minha habilidade no CSS, com posicionamento e e separação de elementos
+[] - Responsividade (Media queries)
+[] - Melhorar estrutura do projeto
