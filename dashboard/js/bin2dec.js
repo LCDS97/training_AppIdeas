@@ -1,0 +1,1 @@
+let binaryNumber = document.getElementById('binaryNumber');

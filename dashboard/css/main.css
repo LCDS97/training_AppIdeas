@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    width: 700px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#mainTitle {
+    width: 100%;
+    font-size: 33px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+#subTitle {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
