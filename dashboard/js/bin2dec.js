@@ -91,6 +91,6 @@ function getValue() {
 
 
 // 1 - Verificar se esta nulo - OK
-// 2 - Somente um ou zero no primeiro - Not
+// 2 - Somente um ou zero no primeiro - OK
 // 3 - Usuario somente pode digitar até 8 binarios - OK
 // 4 - Usuario verificar no campo o valor do binario convertido - OK
